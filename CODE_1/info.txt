@@ -1,3 +1,4 @@
-
+dodani dio teksta
 ovo je neka poruka u info dat
 korisnik na ovom računalu: 
+novi dodani info nakon newFtr kreiranja
